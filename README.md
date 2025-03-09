@@ -1,6 +1,6 @@
 Hi there 👋
 - 💻 I’m interested in systems programming
-- 🦀 I’m currently learning rustlang
+- 📚 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on distributed systems development
 - 📫 How to reach me: https://www.linkedin.com/in/chanaka-wijethilaka-38b947132/
 - 🧔‍♂️ Pronouns: He/Him
